@@ -1,0 +1,11 @@
+.addProductForm{
+    border: 1px solid black;
+    
+   
+}
+.addProductContainer{
+    display: flex;
+    justify-content: center;
+    transform: translateY(50px);
+    
+}
